@@ -1,0 +1,11 @@
+{
+    "applinks" : {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3N6BQ4DN9R.com.ecomarket.ooo",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
